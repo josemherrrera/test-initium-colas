@@ -1,0 +1,80 @@
+{
+  "Actions" : "Acciones",
+  "Add :singular" : "Agregar :singular",
+
+  "Closed"  : "Cerrado",
+  "closed"  : "cerrado",
+  "Create"  : "Crear",
+  "Create ticket"  : "Crear ticket",
+  "Created" : "Creado",
+
+  "Edit :singular"  : "Editar :singular",
+  "Exit"  : "Salir",
+  "Exit without saving" : "Salir sin guardar",
+
+  "Go back" : "Ir atrás",
+
+  "Home" : "Inicio",
+
+  "Identification"  : "Identficación",
+  "Is active"  : "Activo",
+  
+  "Link" : "Enlace",
+  "Login" : "Iniciar sesión",
+  "Logout" : "Cerrar sesión",
+
+  "Manage site" : "Administrar sitio",
+
+  "Name"  : "Nombre",
+  "Names"  : "Nombres",
+  "Network"  : "Red",
+  "None"  : "Ninguno",
+
+  "Open"  : "Abierto",
+
+
+  "Page not found"  : "Página no encontrada",
+  "Password"  : "Contraseña",
+  "Position"  : "Posición",
+  
+  "Queue" : "Cola",
+  "queue" : "cola",
+  "Queues"  : "Colas",
+  "queues"  : "colas",
+  
+  "Ready" : "Listo",
+  "Register" : "Registrarse",
+  "Remember me next time" : "Recuerdame la próxima vez",
+  "Reset Password" : "Restablecer contraseña",
+  "Retype password" : "Repetir contraseña",
+  
+  "Role"  : "Rol",
+
+  "Save" : "Guardar",
+  "Search"  : "Buscar",
+  "See more" : "Ver más",
+  "Short name"  : "Nombre corto",
+  "Send"  : "Enviar",
+  "Send Password Reset Link" : "Enviar enlace de restablecimiento de contraseña",
+  "Sequence" : "Secuencia",
+  "Sign up" : "Regístrate",
+  "Status"  : "Estatus",
+  "Submit"  : "Enviar",
+
+  "Terms and Conditions" : "Términos y Condiciones",
+  "Thank you!"  : "!Gracias!",
+  "Title" : "Título",
+  
+  "Update" : "Modificar",
+  "Update :singular" : "Modificar :singular",
+  "Updated" : "Actualizado",
+  "User" : "Usuario",
+  "Username"  : "Nombre de usuario",
+  "Users" : "Usuarios",
+  
+  "Quantity"  : "Cantidad",
+
+  "Yes" : "Sí",
+
+  "Waiting time"  : "Tiempo de espera"
+}
