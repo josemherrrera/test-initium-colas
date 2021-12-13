@@ -73,3 +73,17 @@ MIX_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
 
 - Generar los registros para la tabla que almacena las colas `php artisan db:seed --class=QueueSeeder`
 
+---
+## Planificador de colas
+
+El sistema cuenta con un planificador de comandos para simular la atencion de clientes en la cola 1 y cola 2, lo cual hace que cada 2 minutos y 3 minutos en las colas 1 y 2 respectivamente, cambia el estatus del ticket atendido.
+
+- Puede ejecutarse para el planificador `php artisan schedule:work`
+
+## Consideraciones
+
+- Aunque el sistema solo tiene dos colas, el mismo puede ser extensible, debido a los modelos y avances en controlador para que facilmente se implemente un administrador de colas.
+
+## Entregables
+
+- En el directorio Documents se encuentra el modelo entidad relación y la base de datos en formato sql 
